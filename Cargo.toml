@@ -1,0 +1,12 @@
+[package]
+name = "gfx_test"
+version = "0.1.0"
+authors = ["Thomas van den Bighelaar <tmsvdb80@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+gfx = "0.16"
+gfx_window_glutin = "0.16"
+glutin = "0.8"
+rand = "*"
+image = "*"
